@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My First webpage</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1>Welcome, It is me : Hawi</h1>
+        <p> I am a senior high school student and I am into Neuroscience</p>
+        <p>I have tried to read some books about neuroscience and some from famous neurosurgeons.</p>
+        <p>And so far ,I should say, 'Gifted hands' by Ben Carson is my favorite</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ben_Carson_official_portrait.jpg/500px-Ben_Carson_official_portrait.jpg" alt="Ben Carson" width="400">
+        <p>Read about Carson <a href="https://en.wikipedia.org/wiki/Ben_Carson">here</a></p>
+    </body>
+</html>
